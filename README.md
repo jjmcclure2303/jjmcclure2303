@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/jjmcclure2303/MicroStrategy/blob/main/US%20Fast%20Food%20Chains%203.png" width="400" height="250"/> <img src="https://github.com/jjmcclure2303/MicroStrategy/blob/main/US%20Fast%20Food%20Chains%204.png" width="400" height="250" />
 
 
-- [My Data POWER BI Project](https://github.com/KaterynaChepiha/powerbi_data_analyst)
+- [My Data MicroStrategy Project](https://github.com/jjmcclure2303/MicroStrategy/tree/main)
 
 <h2>CASE #3</h2> 
 
