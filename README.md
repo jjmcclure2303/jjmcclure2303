@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 🎯<b>Outcome</b>: All upper management uses the report daily/weekly to make Store visits to multiple stores as they travel their area/region. <br> 
 
 <img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="800" height="500" /> 
-<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="800" height="500" /> 
+<img src="2024-11-22_7-48-54.png" width="800" height="500" /> 
  
 - [My Data EXCEL Project](https://github.com/jjmcclure2303/Excel.git)
 
