@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 🎯 <b>Outcome</b>: Provided actionable insights that informed strategic decision-making in the fast food industry. <br> 
 
 <img src="https://github.com/jjmcclure2303/MicroStrategy/blob/main/US%20Fast%20Food%20Chains%201.png" width="400" height="250"/> <img src="https://github.com/jjmcclure2303/MicroStrategy/blob/main/US%20Fast%20Food%20Chains%202.png" width="400" height="250" />
+<img src="https://github.com/jjmcclure2303/MicroStrategy/blob/main/US%20Fast%20Food%20Chains%203.png" width="400" height="250"/> <img src="https://github.com/jjmcclure2303/MicroStrategy/blob/main/US%20Fast%20Food%20Chains%204.png" width="400" height="250" />
 
 
 - [My Data POWER BI Project](https://github.com/KaterynaChepiha/powerbi_data_analyst)
