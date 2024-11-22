@@ -69,21 +69,20 @@ Here are some ideas to get you started:
 
 <h2>CASE #3</h2> 
 
-✔️<b>Role</b>: Data Analyst for a cosmetic products company <br> 
-▶️<b>Focus</b>: Analyzing product sales and customer reviews using SQL <br> 
-▶️<b>Key Analysis Included</b>:<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠Retrieved the Top 20 products by total sales for specific months and locations<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠Calculated total reviews, highest ratings, and average ratings for each product<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠Identified products with no sales, along with their average rating and total sales<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠Analyzed products with no sales in the last 6 months<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠Highlighted highest total sales per store<br> 
-🎯 <b>Outcome</b>: Provided actionable insights for inventory management and sales optimization, enabling data-driven decision-making.<br> 
+✔️<b>Role</b>: Business Data Analyst for a gaming company <br> 
+▶️<b>Focus</b>: Visualizing sales data using Power BI and Excel <br> 
+▶️ <b>Dashboard Included</b>: <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠Sales by Country, Segment, and Product<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠Metrics: Total Sales, Units Sold, and Sales by Date<br> 
+▶️ <b>Key Features</b>: <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠Implemented dynamic filters for Product, Country, and Segment <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠Enabled stakeholders to explore the data with flexibility <br> 
+🎯 <b>Outcome</b>: Provided actionable insights that informed strategic decision-making in the gaming industry. <br> 
+ 
 
 
 <img src="https://github.com/jjmcclure2303/PowerBI/blob/main/Video%20Games%20Dashboard%201.png" width="400" height="250" /> <img src="https://github.com/jjmcclure2303/PowerBI/blob/main/Video%20Games%20Dashboard%202.png" width="400" height="250" />
 
-
-<img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20162748.png" width="400" height="250" /> <img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20163626.png" width="400" height="250" />
 
 
 - [My Data SQL SERVER Project](https://github.com/KaterynaChepiha/sql_server_data_analyst/tree/main)
