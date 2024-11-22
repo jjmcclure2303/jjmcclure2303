@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 
 🎯<b>Outcome</b>: All upper management uses the report daily/weekly to make Store visits to multiple stores as they travel their area/region. <br> 
 
-<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="800" height="500" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180621.png" width="400" height="250" /><img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180710.png" width="400"  height="250" /> 
-<img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180724.png" width="400"  height="250" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180750.png" width="400"  height="250" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180801.png" width="400"  height="250" />
+<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="800" height="500" /> 
  
 - [My Data EXCEL Project](https://github.com/KaterynaChepiha/excel_data_analyst/tree/main)
 
