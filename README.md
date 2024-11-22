@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
  
 <h2>CASE #1</h2> 
-✔️<b>Role</b>: Data Analyst for a Retail Shoe Store adn Black Friday Sales and Hours <br> 
+✔️<b>Role</b>: Data Analyst for a Retail Shoe Store and Black Friday Sales and Hours <br> 
 ▶️<b>Purpose of the project</b>: A dashboard to see ALL attributes and metrics for a particular store location <br>
 ▶️<b>Key Analysis Included</b>: <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;💠Applied statistical functions: SUMIF(S), COUNTIF(S), MAX/MIN, LARGE/SMALL, and basic arithmetic operations <br>
@@ -47,23 +47,19 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-51-39.png" width="400" height="250"/> <img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-48-54.png" width="400" height="250"/>
 
-
-
-
  
 - [My Data EXCEL Project](https://github.com/jjmcclure2303/Excel.git)
 
 <h2>CASE #2</h2> 
 
-🎮 <b>Role</b>: Business Data Analyst for a gaming company <br> 
-▶️ <b>Focus</b>: Visualizing sales data using Power BI and Excel <br> 
+🎮 <b>Role</b>: Business Data Analyst for a Fast Food Marketing Company <br> 
+▶️ <b>Focus</b>: Visualizing sales data using MicroStrategy and Excel <br> 
 ▶️ <b>Dashboard Included</b>: <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Sales by Country, Segment, and Product <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Metrics: Total Sales, Units Sold, and Sales by Date <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 30 Top US Fast Food Chains <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Metrics: Sales by company age, for 20217 & 2023, and Company Ranks<br> 
 ▶️ <b>Key Features</b>: <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠Implemented dynamic filters for Product, Country, and Segment <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠Enabled stakeholders to explore the data with flexibility <br> 
-🎯 <b>Outcome</b>: Provided actionable insights that informed strategic decision-making in the gaming industry. <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠Enabled marketing to explore the data to help with marketing <br> 
+🎯 <b>Outcome</b>: Provided actionable insights that informed strategic decision-making in the fast food industry. <br> 
 
 <img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013349.png" width="400" height="250"/> <img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013405.png" width="400" height="250" />
 
