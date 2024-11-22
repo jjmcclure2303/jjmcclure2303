@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="800" height="500" /> 
  
-- [My Data EXCEL Project](https://github.com/KaterynaChepiha/excel_data_analyst/tree/main)
+- [My Data EXCEL Project](https://github.com/jjmcclure2303/Excel.git)
 
 <h2>CASE #2</h2> 
 
