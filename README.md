@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 - [My Power BI Project](https://github.com/KaterynaChepiha/sql_server_data_analyst/tree/main)
 
 <h2>CASE #4</h2> 
-🎮 <b>Role</b>: Data Analyst for a business company <br> 
-▶️ <b>Focus</b>: Analyzing employee data using Power BI, SQL, and Python <br> 
+🎮 <b>Role</b>: Data Analyst for a HR Management company <br> 
+▶️ <b>Focus</b>: Analyzing employee data using SQL <br> 
 ▶️ <b>Dashboard Included</b>: <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;💠 Employee Average Salary by Department <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;💠 Employee Count by Department <br> 
