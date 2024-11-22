@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 
 
-- [My Data SQL SERVER Project](https://github.com/KaterynaChepiha/sql_server_data_analyst/tree/main)
+- [My Power BI Project](https://github.com/KaterynaChepiha/sql_server_data_analyst/tree/main)
 
 <h2>CASE #4</h2> 
 🎮 <b>Role</b>: Data Analyst for a business company <br> 
