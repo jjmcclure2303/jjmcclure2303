@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/KaterynaChepiha/python_data_analyst/blob/main/Screenshot%202024-11-12%20233903.png" width="400"/>
 
 
-- [My PYTHON Project](https://github.com/KaterynaChepiha/python_data_analyst)
+- [My SQL Project](https://github.com/KaterynaChepiha/python_data_analyst)
  
 <h2>🤳Connect with me:</h2> 
 ▶️ <a href="https://www.linkedin.com/in/katerynachepiha/" target="_blank">LinkedIn</a>
