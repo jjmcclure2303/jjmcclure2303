@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 🎯<b>Outcome</b>: All upper management uses the report daily/weekly to make Store visits to multiple stores as they travel their area/region. <br> 
 
-<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="800" height="500"/> 
+<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="400" height="250"/> 
 
-<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-52-57.png" width="600" height="450"/>
-<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-51-39.png" width="800" height="450"/> 
-<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-48-54.png" width="600" height="700"/>
+<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-52-57.png" width="400" height="250"/>
+<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-51-39.png" width="400" height="250"/> 
+<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-48-54.png" width="400" height="250"/>
 
 
 
