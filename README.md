@@ -22,8 +22,13 @@ Here are some ideas to get you started:
   ✔️Advanced in Excel<br>
   ✔️Studied SQL, Power BI, and Tableau<br>
   ✔️Finished Data Analytics Training Program at Carolina SoftTech;<br>
-  ✔️Microstrategy Departmental Analyst Certified;<br>
-  
+  ✔️Microstrategy Departmental Analyst Certified <h2>CERTIFICATIONS</h2>
+
+
+
+[CEERTIFICATE](https://images.credential.net/embed/0upmtt7n.png)
+
+ 
  
 <h2>CASE #1</h2> 
 ✔️<b>Role</b>: Data Analyst for a Retail Shoe Store <br> 
