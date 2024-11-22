@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
  
 <h2>CASE #1</h2> 
-✔️<b>Role</b>: Data Analyst for a Retail Shoe Store <br> 
+✔️<b>Role</b>: Data Analyst for a Retail Shoe Store adn Black Friday Sales and Hours <br> 
 ▶️<b>Purpose of the project</b>: A dashboard to see ALL attributes and metrics for a particular store location <br>
 ▶️<b>Key Analysis Included</b>: <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;💠Applied statistical functions: SUMIF(S), COUNTIF(S), MAX/MIN, LARGE/SMALL, and basic arithmetic operations <br>
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 🎯<b>Outcome</b>: All upper management uses the report daily/weekly to make Store visits to multiple stores as they travel their area/region. <br> 
 
+<img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="800" height="500" /> 
 <img src="https://github.com/jjmcclure2303/Excel/blob/main/2024-11-22_7-32-11.png" width="800" height="500" /> 
  
 - [My Data EXCEL Project](https://github.com/jjmcclure2303/Excel.git)
