@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;💠Enabled marketing to explore the data to help with marketing <br> 
 🎯 <b>Outcome</b>: Provided actionable insights that informed strategic decision-making in the fast food industry. <br> 
 
-<img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013349.png" width="400" height="250"/> <img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013405.png" width="400" height="250" />
+<img src="https://github.com/jjmcclure2303/MicroStrategy/blob/main/US%20Fast%20Food%20Chains%201.png" width="400" height="250"/> <img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013405.png" width="400" height="250" />
 
 
 - [My Data POWER BI Project](https://github.com/KaterynaChepiha/powerbi_data_analyst)
