@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 🎯 <b>Outcome</b>: Provided actionable insights for inventory management and sales optimization, enabling data-driven decision-making.<br> 
 
 
-<img src="https://github.com/jjmcclure2303/PowerBI/blob/main/Video%20Games%20Dashboard%201.png)" width="400" height="250" /> <img src="https://github.com/jjmcclure2303/PowerBI/blob/main/Video%20Games%20Dashboard%202.png" width="400" height="250" />
+<img src="https://github.com/jjmcclure2303/PowerBI/blob/main/Video%20Games%20Dashboard%201.png" width="400" height="250" /> <img src="https://github.com/jjmcclure2303/PowerBI/blob/main/Video%20Games%20Dashboard%202.png" width="400" height="250" />
 
 
 <img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20162748.png" width="400" height="250" /> <img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20163626.png" width="400" height="250" />
