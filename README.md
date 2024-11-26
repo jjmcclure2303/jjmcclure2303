@@ -99,8 +99,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;💠 Perform data cleaning and transformation tasks <br> 
 🎯 <b>Outcome</b>: Showcasing SQL knowledge <br> 
 
-<img src="https://github.com/jjmcclure2303/SQL/blob/main/Screenshot%202024-11-22%20132215.png" width="400"/>
-<img src="https://github.com/jjmcclure2303/SQL/blob/main/Screenshot%202024-11-22%20132630.png" width="400"/>
+<img src="https://github.com/jjmcclure2303/SQL/blob/main/Screenshot%202024-11-22%20132215.png" width="400"/> <img src="https://github.com/jjmcclure2303/SQL/blob/main/Screenshot%202024-11-22%20132630.png" width="400"/>
 
 
 - [My SQL Project](https://github.com/jjmcclure2303/SQL)
