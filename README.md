@@ -88,18 +88,16 @@ Here are some ideas to get you started:
 - [My Power BI Project](https://github.com/jjmcclure2303/PowerBI)
 
 <h2>CASE #4</h2> 
-🎮 <b>Role</b>: Data Analyst for a HR Management company <br> 
+🎮 <b>Role</b>: Data Analyst for a Employee Management <br> 
 ▶️ <b>Focus</b>: Analyzing employee data using SQL <br> 
-▶️ <b>Dashboard Included</b>: <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Employee Average Salary by Department <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Employee Count by Department <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Total Salary by Department <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Employee Count by Zip Code <br> 
+
 ▶️ <b>Key Features</b>: <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Integrated SQL for data extraction from company databases <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Used Python for dynamic visualizations and data processing <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;💠 Enabled stakeholders to interact with the data through filters <br> 
-🎯 <b>Outcome</b>: Delivered insights that supported workforce planning and compensation decisions, showcasing the power of combining SQL, Python, and Power BI for effective data analysis and visualization. <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Design and normalize database schemas <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Write basic SQL queries to retrieve specific information <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Utilize JOIN operations to combine data from multiple tables <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Employ aggregate functions to calculate summary statistics <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Perform data cleaning and transformation tasks <br> 
+🎯 <b>Outcome</b>: Showcasing SQL knowledge <br> 
 
 <img src="https://github.com/KaterynaChepiha/python_data_analyst/blob/main/Screenshot%202024-11-12%20233903.png" width="400"/>
 
