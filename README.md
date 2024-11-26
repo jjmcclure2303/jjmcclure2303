@@ -104,10 +104,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/KaterynaChepiha/python_data_analyst/blob/main/Screenshot%202024-11-12%20233903.png" width="400"/>
 
 
-- [My SQL Project](https://github.com/KaterynaChepiha/python_data_analyst)
+- [My SQL Project](https://github.com/KaterynaChepiha/python_data_analyst](https://github.com/jjmcclure2303/SQL)
  
 <h2>🤳Connect with me:</h2> 
-▶️ <a href="https://www.linkedin.com/in/katerynachepiha/" target="_blank">LinkedIn</a>
+▶️ <a href="https://www.linkedin.com/in/jillmcclure/" target="_blank">LinkedIn</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
